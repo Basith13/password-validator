@@ -1,0 +1,5 @@
+{
+    "dbURL": "mongodb+srv://basith:Q5m14pk1C6ASIP2k@cluster0.41mlkto.mongodb.net/",
+    "jwtSecret": "sl_myJwtSecret"
+  }
+  
